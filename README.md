@@ -9,7 +9,7 @@ You can easily use it in GPO to automate backing up computers that already have 
 1. Script checks if there is network connection.
 2. Gets system drive bitlocker data
 3. Backs up bitlocker data to AD
-4. Save's information in Registry, that is backed up, to prevent running backing up every time when script is executed.
+4. Saves information in the registry that a key has been backed up, to prevent backup every time the script is executed
 
 ## Howto
 
